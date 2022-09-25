@@ -377,9 +377,10 @@ button,input{
     height: 60vh;
     border-radius: 0.75rem;
     justify-self: center;
+    margin-top: -10rem;
 }
 .about_heading{
-    font-size: var(--h3-font-size);
+    font-size: var(--normal-font-size);
     margin-bottom: var(--mb-0-75);
 }
 .about_description{
