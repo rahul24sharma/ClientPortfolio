@@ -663,7 +663,7 @@ button,input{
 }
 
 /*===== Services Section =====*/
-.servies_container{
+.services_container{
     grid-template-columns: repeat(3,250px);
     justify-content: center;
     column-gap: 1.8rem;
