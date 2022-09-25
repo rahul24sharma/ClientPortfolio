@@ -1242,9 +1242,6 @@ textarea.input{
     .home_description{
         padding-left: 1rem;
     }
-    .button{
-        margin-top: 3rem;
-    }
     .about_info{
         grid-template-columns: repeat(3,1fr);
     }
