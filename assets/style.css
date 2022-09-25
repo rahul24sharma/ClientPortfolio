@@ -1210,7 +1210,7 @@ textarea.input{
         left: 1.5rem;
     }
     .my_info{
-        display: block;
+        display: none;
     }
    .info_title{
        font-size: var(--small-font-size);
