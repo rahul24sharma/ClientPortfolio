@@ -1214,6 +1214,7 @@ textarea.input{
     }
    .info_title{
        font-size: var(--small-font-size);
+       margin-top: -11rem;
    }
    .info_subtitle{
        font-size: var(--smaller-font-size);
